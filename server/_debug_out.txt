@@ -1,0 +1,16 @@
+=== DEPARTMENTS ===
+  name:"IT" id:63fa2efb-7a7c-4597-aecf-44b60711beab hodUserId:null
+  name:"Mechanical" id:b5e9b18f-0849-49ec-bba0-9fdb7ed19829 hodUserId:null
+  name:"Civil" id:2503ebf9-dc89-413e-b711-53d937f2a27d hodUserId:null
+  name:"Electronics" id:bb7bcb41-ce76-4f1e-930b-a10ef679a55d hodUserId:null
+  name:"Chemical" id:51cb276b-ca9a-4efa-b452-87a682bbe7b0 hodUserId:null
+  name:"CSE" id:731255c4-8962-4790-8138-520c14abf11a hodUserId:d1b75fa1-1069-45be-a28a-919b11787a70
+
+=== HOD USERS ===
+  email:sujalthakur433@gmail.com id:d1b75fa1-1069-45be-a28a-919b11787a70 profileDept:CSE
+
+=== TEACHERS ===
+  name:Mayank Gaur email:gaurmayank629@gmail.com dept:CSE
+
+=== TEACHER ASSIGNMENTS ===
+  teacherId:3ff05fcc-c297-4a27-8388-29a0dcd718d8 deptId:731255c4-8962-4790-8138-520c14abf11a

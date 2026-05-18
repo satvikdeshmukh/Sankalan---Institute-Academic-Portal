@@ -1,0 +1,22 @@
+{
+  "features": [
+    "attendance_percentage",
+    "absences",
+    "trend_encoded",
+    "lectures_conducted",
+    "lectures_attended",
+    "prev_sem_attendance",
+    "month"
+  ],
+  "classes": [
+    "HIGH_RISK",
+    "SAFE",
+    "WARNING"
+  ],
+  "accuracy": 1.0,
+  "trend_map": {
+    "improving": 1,
+    "stable": 0,
+    "declining": -1
+  }
+}

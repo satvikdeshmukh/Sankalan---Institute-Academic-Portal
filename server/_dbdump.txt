@@ -1,0 +1,17 @@
+DEPTS:
+63fa2efb-7a7c-4597-aecf-44b60711beab | IT | hod=null
+b5e9b18f-0849-49ec-bba0-9fdb7ed19829 | Mechanical | hod=null
+2503ebf9-dc89-413e-b711-53d937f2a27d | Civil | hod=null
+bb7bcb41-ce76-4f1e-930b-a10ef679a55d | Electronics | hod=null
+51cb276b-ca9a-4efa-b452-87a682bbe7b0 | Chemical | hod=null
+731255c4-8962-4790-8138-520c14abf11a | CSE | hod=d1b75fa1-1069-45be-a28a-919b11787a70
+
+USERS:
+admin | admin@eduportal.com | Admin | pdept=null | asgn=NONE
+teacher | gaurmayank629@gmail.com | Mayank Gaur | pdept=CSE | asgn=731255c4-8962-4790-8138-520c14abf11a
+hod | sujalthakur433@gmail.com | Sujal Thakur | pdept=CSE | asgn=NONE
+principal | mayankgaur62@gmail.com | Mayank | pdept=null | asgn=NONE
+admin | shailesh123@gmail.com | shailesh | pdept=null | asgn=NONE
+
+ASSIGNMENTS:
+3ff05fcc-c297-4a27-8388-29a0dcd718d8 -> 731255c4-8962-4790-8138-520c14abf11a

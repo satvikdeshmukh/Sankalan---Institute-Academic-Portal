@@ -1,0 +1,4 @@
+Strategy 2 (profile.department=CSE): found 1 teachers
+  => gaurmayank629@gmail.com | dept: CSE
+
+Mayank: id=3ff05fcc-c297-4a27-8388-29a0dcd718d8 profileDept=CSE assignment={"id":"0f1daaf9-1347-42e1-a702-44401c84a053","teacherUserId":"3ff05fcc-c297-4a27-8388-29a0dcd718d8","departmentId":"731255c4-8962-4790-8138-520c14abf11a"}
